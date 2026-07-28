@@ -5,3 +5,6 @@ pillow
 pandas
 joblib
 scikit-learn
+plotly
+gspread
+google-auth
